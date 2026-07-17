@@ -2,6 +2,8 @@
 
 > 让一台电脑运行 `opencodex`，另一台已经登录 `Codex` 的电脑通过局域网直接复用它的模型与账号能力。
 
+**English:** [Read the complete English guide](./README_EN.md)
+
 ## 致谢与上游项目
 
 本教程基于上游开源项目 [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) 实现。请先访问该仓库了解 OpenCodex 本身的安装、许可证与最新功能。
